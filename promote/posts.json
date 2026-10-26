@@ -1,0 +1,581 @@
+{
+  "game": "Locksmith",
+  "tagline": "The escape artist. The famous one.",
+  "link": "",
+  "handle": "@yourhandle",
+  "hashtags": {
+    "core": [
+      "#Locksmith",
+      "#Decentraland",
+      "#ComedyGame"
+    ],
+    "extra": [
+      "#EscapeGame",
+      "#IndieGame",
+      "#Parody",
+      "#Metaverse"
+    ]
+  },
+  "brand": {
+    "text": "#F2BC3C",
+    "ink": "#120A08",
+    "accent": "#F2851F",
+    "font": "/System/Library/Fonts/Supplemental/Impact.ttf",
+    "font_small": "/System/Library/Fonts/Supplemental/DIN Condensed Bold.ttf",
+    "wordmark": "LOCKSMITH",
+    "icon_text": "0",
+    "icon_top": "LOCKPICKS",
+    "icon_bottom": "ESCAPE ARTIST",
+    "quote_tag": "LOCKSMITH"
+  },
+  "keyart": {
+    "1920x1080": "images/keyart/cell_1920x1080.png"
+  },
+  "keyart_logo_y": 0.2,
+  "x_header_logo": "left",
+  "event_banners": false,
+  "quote_cards": [
+    {
+      "id": "quote_lockpicks",
+      "render": "images/renders/chair.png",
+      "line": "You reach for your lockpick.\nYou have 0 lockpicks."
+    },
+    {
+      "id": "quote_conveyor",
+      "render": "images/renders/belt.png",
+      "line": "Conveyor 3 is now active.\nPlease remain seated.\nYou will."
+    },
+    {
+      "id": "quote_hopeless",
+      "render": "images/renders/tank.png",
+      "line": "Fair point. Updating his\nstatus to: hopeless."
+    }
+  ],
+  "images": {
+    "keyart_landscape": {
+      "file": "images/social/keyart_1920x1080.png",
+      "alt": "A torch-lit stone cell: a player chained to an orange folding chair seen from behind, two thugs facing them, a chandelier overhead, the LOCKSMITH wordmark at the top."
+    },
+    "keyart_square": {
+      "file": "images/social/keyart_1080x1080.png",
+      "alt": "Square key art: the chained player on the orange chair facing two thugs in the stone cell, with the LOCKSMITH wordmark."
+    },
+    "x_header": {
+      "file": "images/social/x_header_1500x500.png",
+      "alt": "Banner: the stone cell with the chair and the two thugs, LOCKSMITH wordmark on the left."
+    },
+    "chair": {
+      "file": "images/renders/chair.png",
+      "alt": "An empty orange folding chair in a torch-lit stone cell, a chain across the seat and a brass padlock hanging from its side."
+    },
+    "crate": {
+      "file": "images/renders/crate.png",
+      "alt": "A wooden crate marked LOCKPICKS (assorted, 24 pc) against a stone wall, the edge of an orange chair out of focus in front."
+    },
+    "belt": {
+      "file": "images/renders/belt.png",
+      "alt": "An orange folding chair on a pallet riding a long conveyor belt toward a glowing lava pool."
+    },
+    "tank": {
+      "file": "images/renders/tank.png",
+      "alt": "A shark in a lit glass tank behind a round vault door, a red board above reading SHARK RELEASE IN 0:52, water in the foreground."
+    },
+    "cell": {
+      "file": "images/renders/cell.png",
+      "alt": "A stone cell with a barred iron gate between two torches, barrels in one corner and a sitting skeleton in the other."
+    },
+    "quote_lockpicks": {
+      "file": "images/social/quote_lockpicks.png",
+      "alt": "The chair with its padlock and the line: You reach for your lockpick. You have 0 lockpicks."
+    },
+    "quote_conveyor": {
+      "file": "images/social/quote_conveyor.png",
+      "alt": "The chair on the conveyor belt and the line: Conveyor 3 is now active. Please remain seated. You will."
+    },
+    "quote_hopeless": {
+      "file": "images/social/quote_hopeless.png",
+      "alt": "The shark tank and the line: Fair point. Updating his status to: hopeless."
+    },
+    "logo_lockup": {
+      "file": "logo/locksmith_lockup_on_black.png",
+      "alt": "LOCKSMITH wordmark with the tagline The escape artist. The famous one."
+    },
+    "icon": {
+      "file": "logo/locksmith_icon_1024.png",
+      "alt": "A glowing orange 0 between the words LOCKPICKS and ESCAPE ARTIST."
+    }
+  },
+  "shotlist_tips": [
+    "Record in the Decentraland desktop Explorer at 1920x1080 or higher, in the default third-person camera, with the client UI hidden where you can.",
+    "Use only your own avatar in public clips; the game hides other visitors at the chair, but keep anyone else's name out of frame.",
+    "Record with sound on: the chain rattle, the lock click and the countdown music carry the clips. The music is \"Spy Glass\" by Kevin MacLeod (incompetech.com), CC BY 4.0: credit it in any post that uses it.",
+    "Each level runs about two minutes; the conveyor and the shark shots happen near the end of theirs, so start recording a little before.",
+    "For vertical reels, keep the chair in the middle third of a 16:9 recording so a 9:16 crop keeps it.",
+    "Keep the endings out of public clips: what happens when the belt reaches the end, what happens when the shark reaches you, and the end card."
+  ],
+  "posts": [
+    {
+      "id": "launch-01",
+      "kind": "launch",
+      "title": "Launch: the famous one",
+      "cta": true,
+      "text": "You are the escape artist. The famous one.\nThis should be easy.\n\nLockpicks: 0.\n\nPlay LOCKSMITH: {LINK}",
+      "image": "keyart_landscape",
+      "ig_image": "keyart_square"
+    },
+    {
+      "id": "launch-02",
+      "kind": "launch",
+      "title": "Launch: the thugs",
+      "cta": true,
+      "text": "\"You checked his pockets well, right?\"\n\"Yes yes, I'm sure. Every inch.\"\n\nTwo thugs. One chair. Zero lockpicks.\n\nLOCKSMITH: {LINK}",
+      "image": "chair"
+    },
+    {
+      "id": "launch-03",
+      "kind": "launch",
+      "title": "Launch: what it is",
+      "cta": true,
+      "text": "LOCKSMITH is a short comedy escape game in Decentraland.\n\nThree rooms, about two minutes each. Click the padlock. Press E to shake the chains. Talk to the thugs.\n\nNone of it works. All of it answers back.\n\n{LINK}",
+      "image": "cell"
+    },
+    {
+      "id": "launch-04",
+      "kind": "launch",
+      "title": "Launch: skill points",
+      "cta": true,
+      "text": "Skill points: 12.\nLockpicking: 8. Non-refundable.\nLockpicks: 0.\n\nLOCKSMITH: {LINK}",
+      "image": "crate"
+    },
+    {
+      "id": "soon-01",
+      "kind": "soon",
+      "title": "Coming soon: persistent",
+      "text": "\"He's very persistent for a man with zero lockpicks.\"\n\nLOCKSMITH. Coming soon to Decentraland.",
+      "image": "cell"
+    },
+    {
+      "id": "soon-02",
+      "kind": "soon",
+      "title": "Coming soon: the box",
+      "text": "A box. It says LOCKPICKS on it. In capital letters.\nIt is 3.4 metres away.\nYou are tied to a chair.\n\nLOCKSMITH. Coming soon.",
+      "image": "crate"
+    },
+    {
+      "id": "soon-03",
+      "kind": "soon",
+      "title": "Coming soon: countdown template",
+      "text": "LOCKSMITH opens in {N} days.\n\nThe escape artist. The famous one.\nThis should be easy.",
+      "image": "logo_lockup",
+      "ig_image": "icon"
+    },
+    {
+      "id": "soon-04",
+      "kind": "soon",
+      "title": "Coming soon: for escape-room people",
+      "text": "For everyone who has ever beaten an escape room with time to spare:\n\nthis one has a chair.\n\nLOCKSMITH, a comedy escape game. Coming soon to Decentraland.",
+      "image": "keyart_landscape",
+      "ig_image": "keyart_square"
+    },
+    {
+      "id": "footage-01",
+      "kind": "footage",
+      "title": "Footage: standard procedure",
+      "text": "Right. Standard procedure.\n\n[FOOTAGE]",
+      "image": "chair",
+      "footage": "From the title screen: press Start, press All in on Lockpicking so it reads 12, skip through the tutorial. Cut to the cell in the default third-person camera: click the padlock on your right hip and hold on the thought \"You reach for your lockpick. You have 0 lockpicks.\" 12 to 15 seconds. Do not show the later rooms."
+    },
+    {
+      "id": "footage-02",
+      "kind": "footage",
+      "title": "Footage: shaking the chains",
+      "text": "The chains are rated for 20 kN.\nYou are rated for 0 lockpicks.\n\n[FOOTAGE]",
+      "image": "chair",
+      "footage": "In the cell, third person, the chair in the middle of the frame. Press E two or three times: the seated struggle, the chain rattle, the thought box, a thug reacting in his speech bubble. Sound on. 8 to 10 seconds. Works as a vertical reel and loops."
+    },
+    {
+      "id": "footage-03",
+      "kind": "footage",
+      "title": "Footage: Conveyor 3",
+      "text": "Destination: lava.\n\n[FOOTAGE]",
+      "image": "belt",
+      "footage": "Conveyor 3, late in the level: the belt carrying the chair, then the game's own cinematic angle past the lava as the chair creeps toward it. Cut before the pallet reaches the end of the belt; what happens there stays secret. 8 to 12 seconds."
+    },
+    {
+      "id": "footage-04",
+      "kind": "footage",
+      "title": "Footage: the release",
+      "text": "The shark's status remains: hopeful.\n\n[FOOTAGE]",
+      "image": "tank",
+      "footage": "Tank room: the board hits SHARK RELEASE IN 0:00, the vault door swings open, the game cuts to its low angle beside the gate and the shark lines up and swims out nose first. Cut as it turns down the room toward the camera. Never show it reaching the chair. About 10 seconds."
+    },
+    {
+      "id": "footage-05",
+      "kind": "footage",
+      "title": "Footage: 30-second trailer",
+      "text": "LOCKSMITH. Thirty seconds of not escaping.\n\n[FOOTAGE]",
+      "image": "keyart_landscape",
+      "footage": "Trailer cut, under 30 seconds, horizontal 16:9 with a vertical 9:16 version. 0-3 s: shaking the chains (motion in the first three seconds). 3-7 s: the skill screen, All in on Lockpicking. 7-11 s: clicking the padlock, \"You have 0 lockpicks.\" 11-16 s: the spoon exchange in the thugs' bubbles. 16-21 s: the belt and the lava angle. 21-27 s: the vault door opening and the shark coming out. 27-30 s: LOCKSMITH wordmark. Captions on. No endings, no end card."
+    },
+    {
+      "id": "quote-01",
+      "kind": "quote",
+      "title": "Quote: zero",
+      "text": "\"You reach for your lockpick. You have 0 lockpicks.\"",
+      "image": "quote_lockpicks"
+    },
+    {
+      "id": "quote-02",
+      "kind": "quote",
+      "title": "Quote: Conveyor 3",
+      "text": "\"Conveyor 3 is now active. Please remain seated. You will.\"",
+      "image": "quote_conveyor"
+    },
+    {
+      "id": "quote-03",
+      "kind": "quote",
+      "title": "Quote: hopeless",
+      "text": "\"He's tied to a chair. In a flooded room. Next to a shark.\"\n\"Fair point. Updating his status to: hopeless.\"",
+      "image": "quote_hopeless"
+    },
+    {
+      "id": "bts-01",
+      "kind": "bts",
+      "title": "Behind the scenes: the skill screen",
+      "text": "The skill screen in LOCKSMITH gives you 12 points and puts 8 of them in Lockpicking before you touch anything. The minus button stops at 8.\n\nThen a tutorial teaches you pins, tension and binding order.\n\nThen you play.\n\n#gamedev",
+      "image": "crate"
+    },
+    {
+      "id": "bts-02",
+      "kind": "bts",
+      "title": "Behind the scenes: the struggle emote",
+      "text": "Shaking the chains plays a custom seated struggle, animated on Decentraland's avatar rig. It starts and ends in exactly the pose of the built-in sitting emote, so you never leave the chair.\n\nYou never leave the chair.\n\n#gamedev #SDK7",
+      "image": "chair"
+    },
+    {
+      "id": "reddit-01",
+      "kind": "reddit",
+      "title": "Reddit: r/playmygame",
+      "subreddit": "r/playmygame",
+      "post_title": "I made an escape game where you're the world's best escape artist, chained to a chair, with 0 lockpicks",
+      "flair": "PC",
+      "link_in": "body",
+      "text": "I'm the dev. LOCKSMITH is a short comedy game in Decentraland: three rooms, about two minutes each.\n\nYou can click the padlock, press E to shake the chains, eye the box of lockpicks across the cell, or talk to the two thugs who searched you. Every attempt gets an answer. None of them help.\n\nOne question for you: does the joke still land in the third room, or is it one room too long?\n\n{LINK}",
+      "image": "keyart_landscape",
+      "footage": "The shake clip (footage-02's video), 8 to 10 seconds.",
+      "why_here": "Players who come to try small free games and leave feedback; a dev asking one real question fits the sub.",
+      "rules_note": "One post per calendar month; add the PC flair after posting; you must be the dev and include a written description. [CHECK: re-read the sidebar]",
+      "modelled_on": [
+        {
+          "title": "I made pinball into Getting Over It.",
+          "url": "https://www.reddit.com/r/playmygame/comments/1u5kj6w/i_made_pinball_into_getting_over_it/",
+          "note": "'I made X' with a twist on a known form"
+        },
+        {
+          "title": "Looking for playtesters for our anti-shooter where you must avoid hitting people!",
+          "url": "https://www.reddit.com/r/playmygame/comments/1w6a8ca/looking_for_playtesters_for_our_antishooter_where/",
+          "note": "the genre turned inside out, in the title"
+        },
+        {
+          "title": "I made a daily game that teaches you to spot AI-generated photos",
+          "url": "https://www.reddit.com/r/playmygame/comments/1vx67cm/i_made_a_daily_game_that_teaches_you_to_spot/",
+          "note": "one sentence that says what you do"
+        }
+      ]
+    },
+    {
+      "id": "reddit-02",
+      "kind": "reddit",
+      "title": "Reddit: r/decentraland",
+      "subreddit": "r/decentraland",
+      "post_title": "New in Decentraland: a comedy escape game where you are chained to a chair with 0 lockpicks",
+      "flair": null,
+      "link_in": "body",
+      "text": "I built LOCKSMITH, a short escape game you play from a folding chair. Two thugs, a conveyor belt, a shark on a timer, and a padlock you can click as many times as you like.\n\n\"You reach for your lockpick. You have 0 lockpicks.\"\n\nAbout two minutes per room, single player. I'd love to hear which line got you.\n\n{LINK}",
+      "image": "chair",
+      "footage": "The shake clip or the 30-second trailer (footage-05).",
+      "why_here": "Regulars post places and events worth visiting; a new game with a clip is on topic.",
+      "rules_note": "Stay on Decentraland; be respectful. [CHECK: re-read the sidebar]",
+      "modelled_on": [
+        {
+          "title": "Digital art you can walk through — three immersive builds in Decentraland",
+          "url": "https://www.reddit.com/r/decentraland/comments/1r15vmr/digital_art_you_can_walk_through_three_immersive/",
+          "note": "a place framed as something to go to"
+        },
+        {
+          "title": "Football season is on in Decentraland ⚽",
+          "url": "https://www.reddit.com/r/decentraland/comments/1u33whh/football_season_is_on_in_decentraland/",
+          "note": "short, one hook, a clip"
+        },
+        {
+          "title": "Explore the redesigned Genesis Plaza in Decentraland!",
+          "url": "https://www.reddit.com/r/decentraland/comments/1qjyhxn/explore_the_redesigned_genesis_plaza_in/",
+          "note": "invitation in the title"
+        }
+      ]
+    },
+    {
+      "id": "reddit-03",
+      "kind": "reddit",
+      "title": "Reddit: r/escaperooms weekly promotions thread",
+      "subreddit": "r/escaperooms",
+      "post_title": "(comment in the weekly promotions thread) A digital escape game for everyone who has watched a team fail an escape room",
+      "flair": "Promotion",
+      "link_in": "body",
+      "text": "I made a short digital escape game that is a joke about escape rooms: you are the world's most famous escape artist, chained to a chair, and you have 0 lockpicks. You can try the padlock, the chains, the thugs and the box of lockpicks across the room. The room always wins.\n\nEverything in it is the real game, no AI art. Clip attached.\n\n{LINK}",
+      "image": "chair",
+      "footage": "The shake clip (footage-02's video), 8 to 10 seconds.",
+      "why_here": "Escape-room regulars, who already enjoy watching an escape go wrong.",
+      "rules_note": "Advertisements only as a comment in the weekly promotions thread, flaired, once every seven days; no AI images. Ask the mods first whether a digital parody counts. [CHECK: re-read the sidebar]",
+      "modelled_on": [
+        {
+          "title": "The cardinal sins of Escape Rooms",
+          "url": "https://www.reddit.com/r/escaperooms/comments/1v51hgw/the_cardinal_sins_of_escape_rooms/",
+          "note": "the community's own jokes about what goes wrong"
+        },
+        {
+          "title": "I became the reason for a game rule once",
+          "url": "https://www.reddit.com/r/escaperooms/comments/1w17m9i/i_became_the_reason_for_a_game_rule_once/",
+          "note": "a failure story, told by the one who failed"
+        },
+        {
+          "title": "a bunch of memes (made by myself)",
+          "url": "https://www.reddit.com/r/escaperooms/comments/1pbseb3/a_bunch_of_memes_made_by_myself/",
+          "note": "humour that is made, not generated, and says so"
+        }
+      ]
+    },
+    {
+      "id": "short-01",
+      "kind": "short",
+      "title": "Short: the worst escape",
+      "hook": "You have 0 lockpicks.",
+      "beats": [
+        "The escape artist. The famous one.",
+        "Two thugs. One chair.",
+        "A belt. Destination: lava.",
+        "A shark on a timer.",
+        "None of it works."
+      ],
+      "yt_title": "The world's best escape artist has 0 lockpicks",
+      "text": "LOCKSMITH, a short comedy escape game in Decentraland. {LINK}\n\n@yourhandle",
+      "image": "keyart_square",
+      "footage": "Vertical, 20 to 25 seconds. Hook card over the cell (the chair and both thugs in the middle third); the shake; the belt carrying the chair toward the lava; the vault door opening and the shark coming out. Stop before the shark reaches the chair and before the belt jams. Captions carry it.",
+      "modelled_on": [
+        {
+          "title": "Ranking Funniest Escape Room Fail Moments",
+          "url": "https://www.youtube.com/shorts/31OZLhL9IwA",
+          "note": "49M views: escape fails as entertainment"
+        },
+        {
+          "title": "Ranking Dumbest Escape Room Moments",
+          "url": "https://www.youtube.com/shorts/Ix__namWk74",
+          "note": "834K views: one fail per beat, captioned"
+        }
+      ]
+    },
+    {
+      "id": "short-02",
+      "kind": "short",
+      "title": "Short: is he shaking?",
+      "hook": "Is he... shaking?",
+      "beats": [
+        "You shake the chains.",
+        "The chains rattle.",
+        "The chains hold.",
+        "Let him. Those chains are rated for a lot more shaking than that."
+      ],
+      "yt_title": "Is he... shaking? (he is chained to a chair)",
+      "text": "LOCKSMITH: you are the escape artist, the famous one, with 0 lockpicks. {LINK}",
+      "image": "chair",
+      "footage": "Vertical, 10 to 14 seconds. The cell, the chair in the middle third: press E twice, the seated struggle and the rattle, Crowbar's bubble 'Is he... shaking?' and Knuckles's answer. Loops.",
+      "modelled_on": [
+        {
+          "title": "My viewers turned a new scary game into a comedy!",
+          "url": "https://www.youtube.com/shorts/RiwsAP83aaI",
+          "note": "1.1M views: one funny reaction moment, captioned"
+        },
+        {
+          "title": "you CAN'T leave this game #roblox #game #robloxrant #funny",
+          "url": "https://www.youtube.com/shorts/Rq3NdYvRIbU",
+          "note": "25K views: 'can't leave' premise in the title"
+        }
+      ]
+    },
+    {
+      "id": "short-03",
+      "kind": "short",
+      "title": "Short: Conveyor 3",
+      "hook": "Please remain seated. You will.",
+      "beats": [
+        "Conveyor 3 is now active.",
+        "Destination: lava.",
+        "Passengers are reminded that Conveyor 3 is a non-stop service."
+      ],
+      "yt_title": "Conveyor 3 is a non-stop service",
+      "text": "A short comedy escape game in Decentraland. {LINK}",
+      "image": "belt",
+      "footage": "Vertical, 12 to 18 seconds. The chair on the raised belt creeping toward the lava, then the game's own low angle past the pool. Cut before the belt stops at the edge.",
+      "modelled_on": [
+        {
+          "title": "Where to Spend Halloween Online With Friends 👻 | Decentraland",
+          "url": "https://www.youtube.com/shorts/-S5RHFuA2Nk",
+          "note": "1.6K views: a Decentraland place as a destination"
+        },
+        {
+          "title": "The new Halloween Party Game this 2026 @decentraland_foundation",
+          "url": "https://www.youtube.com/shorts/OILQLB-0ENw",
+          "note": "a Decentraland game in one clip"
+        }
+      ]
+    }
+  ],
+  "listing": {
+    "short": "Click the padlock, shake the chains, talk back to two thugs. You are the world's greatest escape artist, chained to a chair with 0 lockpicks.",
+    "long": "You play as yourself: the escape artist, the famous one, chained to an orange folding chair. Try the padlock, rattle the chains, eye the box of lockpicks across the cell, talk to the thugs who searched you. Every attempt gets an answer. None of them help.\n\nThree rooms, about two minutes each: a stone cell, a conveyor belt that ends over a lava pit, and a flooded tank room with a shark and a countdown. A short, one-time comedy you play alone."
+  },
+  "audience": {
+    "who": {
+      "text": "People who do escape rooms with friends and laugh hardest at the team that never got out; and Decentraland regulars looking for something new and short to visit.",
+      "source": "assumed"
+    },
+    "not_for": {
+      "text": "Players who want a real puzzle to solve: nothing here can be solved.",
+      "source": "assumed"
+    },
+    "insight": {
+      "text": "Escape-room people already watch failed escapes for fun: 'funniest escape room fail' Shorts run to tens of millions of views. Locksmith is a whole game of a failed escape, watched from the chair.",
+      "source": "research",
+      "url": "https://www.youtube.com/shorts/31OZLhL9IwA"
+    },
+    "likes": [
+      {
+        "text": "'Ranking Funniest Escape Room Fail Moments' (49M views) and 'Ranking Dumbest Escape Room Moments' (834K): fails, not solutions.",
+        "source": "research",
+        "url": "https://www.youtube.com/shorts/31OZLhL9IwA"
+      },
+      {
+        "text": "Top r/escaperooms posts of the year are about etiquette and rules: 'The cardinal sins of Escape Rooms', 'I became the reason for a game rule once'.",
+        "source": "research",
+        "url": "https://www.reddit.com/r/escaperooms/comments/1v51hgw/the_cardinal_sins_of_escape_rooms/"
+      },
+      {
+        "text": "Complaint, in their words: 'New r/escaperooms Rule: No AI slop'. Show real captures and renders of the scene, labelled as such.",
+        "source": "research",
+        "url": "https://www.reddit.com/r/escaperooms/comments/1se90ml/new_rescaperooms_rule_no_ai_slop/"
+      },
+      {
+        "text": "They build rooms for each other: 'I made this escape room for my library', 'I'm really proud of the escape room I made this year for my partner!'.",
+        "source": "research",
+        "url": "https://www.reddit.com/r/escaperooms/comments/1py00pt/i_made_this_escape_room_for_my_library/"
+      },
+      {
+        "text": "On r/decentraland, the posts that rise are places and events to go to: 'Explore the redesigned Genesis Plaza', 'Football season is on in Decentraland'.",
+        "source": "research",
+        "url": "https://www.reddit.com/r/decentraland/comments/1qjyhxn/explore_the_redesigned_genesis_plaza_in/"
+      }
+    ],
+    "trusts": [
+      {
+        "text": "Morty, the escape-room logging app and its community ('Best of Morty 2025' was a top r/escaperooms post). [CHECK: who runs it and whether they feature games]",
+        "source": "research",
+        "url": "https://www.reddit.com/r/escaperooms/comments/1r6tjxd/best_of_morty_2025/"
+      },
+      {
+        "text": "The r/escaperooms mod team, who run the weekly promotions thread.",
+        "source": "research",
+        "url": "https://subriff.com/subreddit/escaperooms"
+      },
+      {
+        "text": "The Decentraland Foundation's own channels (its Shorts and Discord announcements) for Decentraland regulars.",
+        "source": "assumed"
+      }
+    ],
+    "outside": [
+      {
+        "text": "Booking escape rooms, puzzle hunts and game nights with the same group of friends.",
+        "source": "assumed"
+      },
+      {
+        "text": "Making rooms for friends, partners and libraries (see the top posts).",
+        "source": "research",
+        "url": "https://www.reddit.com/r/escaperooms/comments/1uzz6mt/im_really_proud_of_the_escape_room_i_made_this/"
+      }
+    ],
+    "venues": [
+      {
+        "name": "r/escaperooms",
+        "kind": "subreddit",
+        "url": "https://www.reddit.com/r/escaperooms/",
+        "size": "26,366 members (subriff mirror)",
+        "why": "The people who know exactly how an escape is supposed to go, and enjoy the ones that do not.",
+        "rules": "Posts must be about escape rooms; advertisements only in the weekly promotions thread, flaired, one every seven days; no spoilers; no low-effort posts; new rule against AI-generated images. [CHECK: confirm on the live sidebar]",
+        "walk_in": "Comment in a few etiquette and 'cardinal sins' threads first. Then one comment in the weekly promotions thread with the shake clip, saying you made it. Ask the mods if a digital parody counts.",
+        "post": "reddit-03",
+        "source": "research",
+        "verified": "2026-10-26"
+      },
+      {
+        "name": "r/playmygame",
+        "kind": "subreddit",
+        "url": "https://www.reddit.com/r/playmygame/",
+        "size": "[CHECK: members]",
+        "why": "Players who come to try small free games and leave feedback.",
+        "rules": "Developer posts only, with a written description; one post per calendar month; platform flair added after posting. [CHECK: the 2024 rules post may be outdated, re-read the sidebar]",
+        "walk_in": "Play and comment on three games there first; post once, answer every comment the same day.",
+        "post": "reddit-01",
+        "source": "research",
+        "verified": "2026-10-26"
+      },
+      {
+        "name": "r/decentraland",
+        "kind": "subreddit",
+        "url": "https://www.reddit.com/r/decentraland/",
+        "size": "[CHECK: members]",
+        "why": "Decentraland regulars who post places and events to visit.",
+        "rules": "Be respectful; stay on Decentraland (other projects and coins discouraged); no scams. [CHECK: mirror from Oct 2024, re-read the sidebar]",
+        "walk_in": "Post as a place to visit, with the clip, and come back to answer questions.",
+        "post": "reddit-02",
+        "source": "research",
+        "verified": "2026-10-26"
+      },
+      {
+        "name": "Decentraland Discord",
+        "kind": "discord",
+        "url": "https://discord.com/servers/decentraland-417796904760639509",
+        "size": "about 135,500 members (discord.com listing)",
+        "why": "The platform's main community; content creation is one of its listed topics.",
+        "rules": "[CHECK: which channel takes creator showcases and its rules; ask a moderator]",
+        "walk_in": "Ask a moderator where creators share new scenes; post the shake clip there once it is live.",
+        "post": null,
+        "source": "research",
+        "verified": "2026-10-26"
+      },
+      {
+        "name": "r/IndieDev",
+        "kind": "subreddit",
+        "url": "https://www.reddit.com/r/IndieDev/",
+        "size": "about 427K members (thehiveindex)",
+        "why": "Devs who upvote one surprising making-of detail, like the seated struggle emote.",
+        "rules": "[CHECK: could not verify the flair and self-promotion rules]",
+        "walk_in": "Listen and comment for now; no post until the rules are read.",
+        "post": null,
+        "source": "research",
+        "verified": "2026-10-26"
+      }
+    ],
+    "assumptions": [
+      "The first players are escape-room regulars and Decentraland regulars; the GDD's audience lines are still agent-decided. Correct this before posting.",
+      "A digital parody escape game is welcome in r/escaperooms' weekly promotions thread. Ask the mods first.",
+      "The game is free to visit on Decentraland once deployed; no post says 'free' or 'in your browser' until that is confirmed.",
+      "Handle on the mockups is @yourhandle."
+    ]
+  },
+  "plan": {
+    "experiment": "One comment in r/escaperooms' weekly promotions thread with the shake clip (short-02's video), after a note to the mods, plus the r/decentraland post the same week. Count who reaches the belt room.",
+    "first_20": "Message 20 people by hand: friends you have done escape rooms with, and authors of r/escaperooms posts about rooms they built for others (they know the joke from the other side). One line and the clip; the link only when they answer.",
+    "got_it": "Reached the belt room: finished the cell.",
+    "stop_rule": "Fewer than 6 of the 20 reach the shark tank within a week: change the pitch (lead with the thugs' lines, not the premise) before posting anywhere else. No ads.",
+    "days": null
+  }
+}
